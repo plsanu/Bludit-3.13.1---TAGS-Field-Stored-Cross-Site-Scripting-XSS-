@@ -12,6 +12,8 @@ Bludit 3.13.1 - TAGS Field Stored Cross Site Scripting (XSS)
 ### CVE : 
 ### Google Dork: N/A
 ### Reference: 
+- https://www.plsanu.com/bludit-3-13-1-tags-field-stored-cross-site-scripting-xss
+- https://github.com/plsanu/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS
 
 ### Steps to Reproduce:
 1. Login to the admin panel http://localhost/admin
