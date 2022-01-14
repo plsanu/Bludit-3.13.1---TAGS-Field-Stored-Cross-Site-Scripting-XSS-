@@ -4,7 +4,7 @@
 ### Exploit Author: P.L.Sanu
 ### CVE: CVE-2021-45744
 ### CVSS: 5.4 MEDIUM
-### Reference: 
+### References: 
 - https://www.plsanu.com/bludit-3-13-1-tags-field-stored-cross-site-scripting-xss
 - https://nvd.nist.gov/vuln/detail/CVE-2021-45744
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45744
