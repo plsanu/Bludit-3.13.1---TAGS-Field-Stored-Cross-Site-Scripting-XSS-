@@ -1,7 +1,7 @@
 # CVE-2021-45744
 
 ### Exploit Title: Bludit 3.13.1 - TAGS Field Stored Cross Site Scripting (XSS)
-### Exploit Author: P.L.Sanu
+### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
 ### CVE: CVE-2021-45744
 ### CVSS: 5.4 MEDIUM
 ### References: 
